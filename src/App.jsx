@@ -1,5 +1,6 @@
 
 import './App.css'
+import SimpleForm from './Components/SimpleForm/SimpleForm'
 
 function App() {
   
@@ -8,8 +9,8 @@ function App() {
     <>
       <section id="center">       
        
-          <h1>Get started</h1>
-            
+          <h1>Explore React Form </h1>
+            <SimpleForm></SimpleForm>
    </section>
     </>
   )
