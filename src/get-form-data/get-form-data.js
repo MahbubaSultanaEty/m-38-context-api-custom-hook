@@ -5,4 +5,5 @@
  * 3. controlled component. one per each field use state on change of the field. useful to dynamically handle error
  * 4. handle all cintrolled field on one state object
  * 5. Uncontrolled form using useRef
+ * 6. Hook Form [useInptField]
  */
