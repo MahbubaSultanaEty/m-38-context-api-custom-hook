@@ -1,0 +1,10 @@
+.family-tree div{
+    border: 2px solid rebeccapurple;
+    border-radius: 5px;
+    padding: 8px 15px ;
+    margin: 5px;
+}
+
+.flex{
+    display: flex;
+}
